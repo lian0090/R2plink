@@ -1,0 +1,10 @@
+Package: R2plink
+Type: Package
+Title: Functions that connect R and Plink
+Version: 1.0.1
+Date: 2015-07-06
+Author: Lian Lian
+Maintainer: Lian Lian <lianl0501@gmail.com>
+Description: Functions that connect R and Plink
+License: GPL (>= 2)
+Depends: R (>= 2.13.0)
